@@ -14,14 +14,16 @@ Summary: Parse simple '.ini' configuration files to an structured list. Users ca
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/r-ini-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/r-ini-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/r-ini-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/r-ini-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/r-ini-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/r-ini-feedstock/branch/master)
+[![Linux](https://img.shields.io/circleci/project/github/conda-forge/r-ini-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/r-ini-feedstock)
+[![OSX](https://img.shields.io/travis/conda-forge/r-ini-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/r-ini-feedstock)
+[![Windows](https://img.shields.io/appveyor/ci/conda-forge/r-ini-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/r-ini-feedstock/branch/master)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/r-ini/badges/version.svg)](https://anaconda.org/conda-forge/r-ini)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/r-ini/badges/downloads.svg)](https://anaconda.org/conda-forge/r-ini)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-r--ini-green.svg)](https://anaconda.org/conda-forge/r-ini) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/r-ini.svg)](https://anaconda.org/conda-forge/r-ini) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/r-ini.svg)](https://anaconda.org/conda-forge/r-ini) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/r-ini.svg)](https://anaconda.org/conda-forge/r-ini) |
 
 Installing r-ini
 ================
