@@ -1,11 +1,11 @@
-About r-ini
-===========
+About r-ini-feedstock
+=====================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-ini-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/dvdscripter/ini
 
 Package license: GPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-ini-feedstock/blob/main/LICENSE.txt)
 
 Summary: Parse simple '.ini' configuration files to an structured list. Users can manipulate this resulting list with lapply() functions. This same structured list can be used to write back to file after modifications.
 
